@@ -1,0 +1,5 @@
+D:\RAMProjects\JooteyWala\Project\JooteyWala\JooteyWalaApp\JooteyWalaApp\bin\JooteyWalaApp.dll
+D:\RAMProjects\JooteyWala\Project\JooteyWala\JooteyWalaApp\JooteyWalaApp\bin\JooteyWalaApp.pdb
+D:\RAMProjects\JooteyWala\Project\JooteyWala\JooteyWalaApp\JooteyWalaApp\obj\Debug\ResolveAssemblyReference.cache
+D:\RAMProjects\JooteyWala\Project\JooteyWala\JooteyWalaApp\JooteyWalaApp\obj\Debug\JooteyWalaApp.dll
+D:\RAMProjects\JooteyWala\Project\JooteyWala\JooteyWalaApp\JooteyWalaApp\obj\Debug\JooteyWalaApp.pdb
